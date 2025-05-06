@@ -20,7 +20,7 @@ function Navigation() {
       </li>
       <li className="nav-li">
         <a className="nav-link" href="#contact">
-          Contact
+          Connect
         </a>
       </li>
     </ul>
@@ -36,7 +36,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Ali
+            Karan Suthar
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
