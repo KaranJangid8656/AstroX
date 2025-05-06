@@ -2,6 +2,10 @@
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 781d52c793f07a49ee1e131b14ebc0d452670318
 
 ---
 
@@ -61,7 +65,10 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ├── tailwind.config.js
 └── vite.config.js
 ```
-
----
-
 ## Made by Karan
+
+
+<<<<<<< HEAD
+## Made by Karan
+=======
+>>>>>>> 781d52c793f07a49ee1e131b14ebc0d452670318
