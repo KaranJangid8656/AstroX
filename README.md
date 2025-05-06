@@ -62,6 +62,6 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ├── tailwind.config.js
 └── vite.config.js
 ```
-
+## Made by Karan
 
 
