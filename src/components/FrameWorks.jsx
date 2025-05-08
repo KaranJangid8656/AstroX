@@ -1,6 +1,6 @@
 import { OrbitingCircles } from "./OrbitingCircles";
 
-export function FrameWorks() {
+export function Frameworks() {
   const skills = [
     "blazor",
     "cplusplus",
@@ -34,4 +34,4 @@ export function FrameWorks() {
 
 const Icon = ({ src }) => (
   <img src={src} className="duration-200 rounded-sm hover:scale-110" />
-);
+); 

@@ -1,8 +1,8 @@
 import { useRef } from "react";
 import Card from "../components/Card";
-import { Globe } from "../components/globe";
+import { Globe } from "../components/Globe";
 import CopyEmailButton from "../components/CopyEmailButton";
-import { FrameWorks } from "../components/FrameWorks";
+import { Frameworks } from "../components/Frameworks";
 import { FaInstagram, FaLinkedin, FaGithub, FaEnvelope, FaDiscord } from "react-icons/fa";
 
 const About = () => {
