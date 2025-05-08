@@ -2,7 +2,7 @@ import { useRef } from "react";
 import Card from "../components/Card";
 import { Globe } from "../components/Globe";
 import CopyEmailButton from "../components/CopyEmailButton";
-import { Frameworks } from "../components/FrameworksExport";
+import { TechStack } from "../components/TechStack";
 import { FaInstagram, FaLinkedin, FaGithub, FaEnvelope, FaDiscord } from "react-icons/fa";
 
 const About = () => {
@@ -87,7 +87,7 @@ const About = () => {
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
-            <Frameworks />
+            <TechStack />
           </div>
         </div>
       </div>

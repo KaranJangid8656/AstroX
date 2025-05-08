@@ -1,6 +1,6 @@
 import { OrbitingCircles } from "./OrbitingCircles";
 
-export function Frameworks() {
+export function TechStack() {
   const skills = [
     "blazor",
     "cplusplus",
