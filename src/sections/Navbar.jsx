@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between py-2 sm:py-0">
           <a
             href="/"
-            className="text-xl font-bold transition-colors text-neutral-400 hover:text-white -ml-[1.6cm]"
+            className="text-xl font-bold transition-colors text-neutral-400 hover:text-white md:-ml-[1.6cm] ml-0"
           >
             Karan Suthar
           </a>

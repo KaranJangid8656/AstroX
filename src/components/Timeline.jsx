@@ -55,10 +55,11 @@ export const Timeline = ({ data }) => {
               </div>
             </div>
 
-            <div className="relative w-full max-w-2xl pl-20 pr-4 md:pl-4 ml-[5cm]">
-              <div className="block mb-4 text-2xl font-bold text-left text-neutral-300 md:hidden ">
-                <h3>{item.date}</h3>
-                <h3 className="text-[#25A36F]">{item.job}</h3>
+            <div className="relative w-full max-w-2xl pl-20 pr-4 md:pl-4 md:ml-[5cm] ml-0">
+              <div className="block mb-4 text-left md:hidden">
+                <h3 className="text-2xl font-bold text-neutral-300">{item.date}</h3>
+                <h3 className="text-xl text-neutral-400 font-medium whitespace-pre-line mt-1">{item.title}</h3>
+                <h3 className="text-xl text-[#25A36F] font-semibold mt-1">{item.job}</h3>
                 {item.image && (
                   <img
                     src={item.image}
