@@ -1,7 +1,7 @@
 export const myProjects = [
   {
     id: 1,
-    title: "CompileX",
+    title: "Real Time Scalable chat application build with Monorepo Architecture",
     description:
       "A modern chatbot interface powered by Google's Gemini API,designed to help with programming languages and coding tasks.",
     subDescription: [
@@ -16,29 +16,44 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Python",
-        path: "https://icon.icepanel.io/Technology/svg/Python.svg",
+        name: "Redis",
+        // path: "https://icon.icepanel.io/Technology/svg/Python.svg",
       },
       {
         id: 2,
-        name: "Flask",
-        path: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
+        name: "Upstash",
+        // path: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
       },
       {
         id: 3,
-        name: "Gemini API",
-        path: "https://icon.icepanel.io/Technology/svg/HTML5.svg",
+        name: "Socket.io",
+        // path: "https://icon.icepanel.io/Technology/svg/HTML5.svg",
       },
       {
         id: 4,
-        name: "CSS",
-        path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
+        name: "Next.js",
+        // path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
+      },
+      {
+        id: 5,
+        name: "Node.js",
+        // path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
+      },
+      {
+        id: 6,
+        name: "Express",
+        // path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
+      },
+      {
+        id: 7,
+        name: "Typescript",
+        // path: "https://icon.icepanel.io/Technology/svg/CSS3.svg",
       },
     ],
   },
   {
     id: 2,
-    title: "Exploratory Data Analysis",
+    title: "Session Tracking Module webp",
     description:
       "A exploratory data analysis tool using streamlit to instantly gain insights through statistical summaries and interactive visualization.",
     subDescription: [
@@ -53,29 +68,34 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Streamlit",
+        name: "Express",
         path: "https://icon.icepanel.io/Technology/svg/Streamlit.svg",
       },
       {
         id: 2,
-        name: "Pandas",
+        name: "React",
         path: "https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png",
       },
       {
         id: 3,
-        name: "Matplotlib",
+        name: "HTML",
         path: "https://icon.icepanel.io/Technology/svg/Matplotlib.svg",
       },
       {
         id: 4,
-        name: "Plotly",
+        name: "REST APIs",
+        path: "https://icon.icepanel.io/Technology/svg/Ploty.svg",
+      },
+      {
+        id: 5,
+        name: "MongoDB",
         path: "https://icon.icepanel.io/Technology/svg/Ploty.svg",
       },
     ],
   },
   {
     id: 3,
-    title: "DialDetect",
+    title: "Netflix Clone",
     description:
       "This project is designed to detect and validate mobile numbers from input data",
     subDescription: [
@@ -90,29 +110,39 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Python",
+        name: "Next.js",
         path: "https://icon.icepanel.io/Technology/svg/Python.svg",
       },
       {
         id: 2,
-        name: "Regex",
+        name: "TailwindCSS",
         path: "https://cdn.iconscout.com/icon/premium/png-512-thumb/regex-11796971-9632882.png?f=webp&w=512",
       },
       {
         id: 3,
-        name: "Pandas",
+        name: "ReactJS",
         path: "https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png",
       },
       {
         id: 4,
-        name: "Flask",
+        name: "Shadcn",
+        path: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
+      },
+      {
+        id: 5,
+        name: "Youtube iFrame API",
+        path: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
+      },
+      {
+        id: 6,
+        name: "Radix UI",
         path: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png",
       },
     ],
   },
   {
     id: 4,
-    title: "Face Landmark Detection",
+    title: "-Zero IDE Frontend",
     description:
       "Real Time Face Landmark Detection using OpenCV and Dlib",
     subDescription: [
@@ -127,29 +157,39 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Python",
+        name: "ReactJS",
         path: "https://icon.icepanel.io/Technology/svg/Python.svg",
       },
       {
         id: 2,
-        name: "openCV",
+        name: "NextJS",
         path: "https://icon.icepanel.io/Technology/svg/OpenCV.svg",
       },
       {
         id: 3,
-        name: "Git",
+        name: "CSS",
         path: "/assets/logos/git.svg",
       },
       {
         id: 4,
-        name: "Numpy",
+        name: "HTML",
+        path: "https://icon.icepanel.io/Technology/svg/NumPy.svg",
+      },
+      {
+        id: 5,
+        name: "Javascript",
+        path: "https://icon.icepanel.io/Technology/svg/NumPy.svg",
+      },
+      {
+        id: 6,
+        name: "Material UI",
         path: "https://icon.icepanel.io/Technology/svg/NumPy.svg",
       },
     ],
   },
   {
     id: 5,
-    title: "Buzphere",
+    title: "Face Landmark Detection using Python",
     description:
       "Buzphere is a cutting-edge web application designed to predict emerging trends across social media platforms using real-time data analysis and intelligent algorithms. ",
     subDescription: [
@@ -164,22 +204,27 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "Typescript",
-        path: "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+        name: "Python",
+        path: "https://icon.icepanel.io/Technology/svg/Python.svg",
       },
       {
         id: 2,
-        name: "React",
+        name: "OpenCV",
         path: "https://icon.icepanel.io/Technology/svg/React.svg",
       },
       {
         id: 3,
-        name: "Firebase",
+        name: "dlib",
         path: "https://icon.icepanel.io/Technology/svg/Firebase.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
+        name: "Kaggle",
+        path: "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+      },
+      {
+        id: 5,
+        name: "HTML",
         path: "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
       },
     ],
