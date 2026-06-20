@@ -9,6 +9,7 @@ const About = () => {
   const grid2Container = useRef();
   return (
     <section className="c-space section-spacing" id="about">
+      <div className="max-w-7xl mx-auto">
       <h2 className="text-heading">About Me</h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-6 md:auto-rows-[18rem] mt-12">
         {/* Grid 1 */}
@@ -80,7 +81,7 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headText">Tech Stack</p>
+            <p className="headtext">Tech Stack</p>
             <p className="subtext">
               I specialize in a variety of languages, frameworks, and tools that
               allow me to build robust and scalable applications.
@@ -90,6 +91,7 @@ const About = () => {
             <TechStack />
           </div>
         </div>
+      </div>
       </div>
     </section>
   );

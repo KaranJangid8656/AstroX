@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between py-2 sm:py-0">
           <a
             href="/"
-            className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
+            className="text-xl font-bold transition-colors text-neutral-400 hover:text-white -ml-[1.6cm]"
           >
             Karan Suthar
           </a>
@@ -48,7 +48,7 @@ const Navbar = () => {
               alt="toggle"
             />
           </button>
-          <nav className="hidden sm:flex">
+          <nav className="hidden sm:flex -mr-[1.4cm]">
             <Navigation />
           </nav>
         </div>

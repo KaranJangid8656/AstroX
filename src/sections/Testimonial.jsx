@@ -22,7 +22,7 @@ const ReviewCard = ({ img, name, username, body, link }) => {
       rel="noopener noreferrer"
       onClick={handleClick}
       className={twMerge(
-        "relative h-full w-64 cursor-pointer overflow-hidden rounded-xl border p-4 border-gray-50/[.1] bg-gradient-to-r bg-indigo to-storm hover:bg-royal hover-animation"
+        "relative h-full w-64 cursor-pointer overflow-hidden rounded-xl border p-4 border-gray-50/[.1] bg-gradient-to-r from-indigo to-storm hover:bg-royal hover-animation"
       )}
     >
       <div className="flex flex-row items-center gap-2">

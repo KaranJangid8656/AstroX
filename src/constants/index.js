@@ -206,37 +206,39 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "",
-    job: "Open Source Contributor",
-    date: "2024",
+    title: "Frontend AI\nEngineer Intern",
+    job: "Flyrank AI",
+    // date: "June - 2026",
+    image: "/assets/images/flyrank_logo.jpg",
     contents: [
-      "The open-source journey began in 2024 after attending Hacktoberfest, sparking a deep curiosity about contributing to the community.",
-      "Driven by a desire to learn, the exploration of open-source repositories and real-world projects became a key focus. ",
-      "This experience led to a growing passion for development and collaboration. Over time, technical skills and the ability to work in team environments have steadily improved.",
-      "The journey is continuously evolving, with a focus on meaningful contributions and gaining further experience in open-source development.",
-      "As a beginner i worked on some projects and also contributed in some projects.",
+      "Developed and built practical websites as a Frontend AI Engineer Intern at Flyrank AI.",
+      "Developed production-ready interfaces, optimized user experience across devices, and delivered portfolio-quality frontend projects through a structured capstone-based internship program.",
+      "Developed responsive web applications using React, Next.js, and Tailwind CSS with AI-assisted development tools. Built and deployed frontend projects focused on performance, usability, and modern UI implementation. ",
     ],
   },
   {
-    title: "ScriptVerse",
-    job: "Co-founder",
-    date: "2024",
+    title: "Campus Ambassador",
+    job: "Paytm",
+    // date: "2026",
+    image: "/assets/images/paytm_logo.png",
+
     contents: [
-      "Founded in the last quarter of 2024, ScriptVerse is a creative tech collective born from a shared vision: to push the boundaries of what's possible in digital experiences.",
-      "What started as three passionate tech enthusiasts coding late nights in a tiny apartment has now grown into a cutting-edge studio.",
-      "In a short span, we've proudly served over 10 clients and completed 50+ personal, college, and club projects — each one a reflection of our obsession with clean code, futuristic design, and user-first innovation.",
-      "We believe that technology should be both functional and mind-blowing — a fusion of logic and artistry. Every project we take on is an opportunity to challenge convention and create something the world hasn't seen before."
+      "Representing Paytm within the college community by promoting its initiatives, engaging with students through outreach activities, and fostering awareness of the brand.",
+      "Collaborated with the Paytm team to support campus campaigns, strengthen student participation, and enhance brand presence while developing leadership, communication, and networking skills."
     ]
     
   },
   {
-    title: "Data Science",
-    job: "Student",
-    date: "2023-2027",
+    title: "Co-Founder",
+    job: "ScriptVerse",
+    // date: "2024",
+    image: "/assets/images/sv-t.png",
     contents: [
-      "Pursuing computer science and Data Science engineering from Atria institute of technology.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and data analytics.",
-    ],
+      "Founded in the last quarter of 2024, ScriptVerse is a creative tech collective born from a shared vision: to push the boundaries of what's possible in digital experiences.",
+      "In a short span, we've proudly served over 10 clients and completed 50+ personal, college, and club projects — each one a reflection of our obsession with clean code, futuristic design, and user-first innovation.",
+      "We believe that technology should be both functional and mind-blowing — a fusion of logic and artistry."
+    ]
+    
   },
 ];
 export const reviews = [
