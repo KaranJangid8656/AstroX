@@ -21,7 +21,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Karan Suthar</p>
             <p className="subtext">
-              Data Science student and Co-founder of ScriptVerse.
+              Computer Science and Data Science Student .
               I actively participate in hackathons and innovation challenges to explore creative problem-solving.
             </p>
           </div>

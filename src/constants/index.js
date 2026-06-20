@@ -10,7 +10,7 @@ export const myProjects = [
       "The backend handles requests using the Gemini API and ensures smooth communication between the user and the AI, while Flask-CORS manages cross-origin resource sharing.",
       "",
     ],
-    href: "https://github.com/KaranJangid8656/compileX",
+    href: "https://github.com/KaranJangid8656/websockets-turborepo",
     logo: "",
     image: "https://www.cashcowmarketing.co.uk/wp-content/uploads/2024/03/chatbots-a-beginners-guide.webp",
     tags: [
@@ -62,7 +62,7 @@ export const myProjects = [
       " It offers insights into data structure, summary statistics, missing values, and relationships between variables — all through rich, interactive visualizations powered by Plotly, Seaborn, and Matplotlib.",
       "",
     ],
-    href: "https://github.com/KaranJangid8656/Exploratory-data-analysis",
+    href: "https://github.com/KaranJangid8656/session-tracking-module",
     logo: "",
     image: "https://moriohcdn.b-cdn.net/ff3cc511fb.png",
     tags: [
@@ -104,7 +104,7 @@ export const myProjects = [
       " Powered by Flask for potential web integration, Pandas for data handling, and regex for pattern matching, DialDetect is lightweight yet effective. ",
       " It’s ideal for developers or data professionals needing a quick tool to validate phone numbers with minimal setup and flexible input handling.",
     ],
-    href: "https://github.com/KaranJangid8656/DialDetect",
+    href: "https://github.com/KaranJangid8656/netflix-UI-clone",
     logo: "",
     image: "https://cdn.dribbble.com/userupload/24274593/file/original-46afbf37be6585b83a7af83518cb5261.png?resize=800x600&vertical=center",
     tags: [
@@ -151,7 +151,7 @@ export const myProjects = [
       "The project leverages OpenCV for capturing the video feed and Dlib for detecting and predicting the facial landmarks.",
       "",
     ],
-    href: "https://github.com/KaranJangid8656/face_landmark_detection",
+    href: "https://github.com/KaranJangid8656/-ZERO-IDE-InstallationPage",
     logo: "",
     image: "https://petapixel.com/assets/uploads/2016/06/facialrecognition_1.jpg  ",
     tags: [
@@ -198,7 +198,7 @@ export const myProjects = [
       "With Firebase handling authentication, real-time database updates, and cloud storage, Buzphere ensures seamless data flow and scalability. ",
       "",
     ],
-    href: "https://github.com/KaranJangid8656/Buzsphere",
+    href: "https://github.com/KaranJangid8656/face_landmark_detection",
     logo: "",
     image: "https://www.syncfusion.com/blogs/wp-content/uploads/2024/08/Chart-of-the-Week-Forecasting-Stock-Trends-with-AI-Powered-Smart-compressed.jpg",
     tags: [
@@ -234,8 +234,8 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "Github",
-    href: "https://wa.me/8431770172",
-    icon: "/assets/socials/whatsApp.svg",
+    href: "https://github.com/KaranJangid8656",
+    icon: "/assets/logos/github.svg",
   },
   {
     name: "Linkedin",

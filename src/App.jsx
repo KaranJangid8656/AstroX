@@ -19,9 +19,9 @@ const App = () => {
         <About />
       </section>
       <section id="work">
-        <Projects />
+        <Experiences />
       </section>
-      <Experiences />
+      <Projects />
       <section id="contact">
         <Testimonial />
       </section>
