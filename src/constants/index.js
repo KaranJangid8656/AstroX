@@ -199,7 +199,7 @@ export const mySocials = [
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/__karan_jangid",
+    href: "https://www.instagram.com/_karan__suthar_",
     icon: "/assets/socials/instagram.svg",
   },
 ];
@@ -273,10 +273,10 @@ export const reviews = [
   
   {
     name: "Instagram",
-    username: "__karan_jangid",
+    username: "_karan__suthar_",
     body: "Connect with me on Instagram!",
     img: "https://cdn-icons-png.flaticon.com/128/4138/4138124.png",
-    link: "https://www.instagram.com/__karan_jangid"
+    link: "https://www.instagram.com/_karan__suthar_"
   },
   {
     name: "Email",

@@ -35,7 +35,7 @@ const Contact = () => {
             GitHub
           </a>
           <a 
-            href="https://www.instagram.com/__karan_jangid" 
+            href="https://www.instagram.com/_karan__suthar_" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-6 py-2 text-center rounded-md cursor-pointer bg-radial from-lavender to-royal hover-animation"
