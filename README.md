@@ -17,7 +17,7 @@ AstroX is an immersive, high-performance 3D web application designed to showcase
 - [🚀 Installation & Setup](#-installation--setup)
 - [⚙️ Developer Customization Guide](#-developer-customization-guide)
 - [📱 Responsive Optimization Details](#-responsive-optimization-details)
-- [📄 License](#-license)
+- [📄= License](#-license)
 
 ---
 
